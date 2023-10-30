@@ -1,0 +1,10 @@
+Write a program which:
+• creates a random number between 1 and 10
+• start a loop
+• inputs a guess from the user
+• check that the guess is valid i.e. it is between 1
+and 10
+• if it isn't the program prints invalid guess
+• the guess is then compared to the random
+number and tells you Win , Low or High
+• a win exits the loop
